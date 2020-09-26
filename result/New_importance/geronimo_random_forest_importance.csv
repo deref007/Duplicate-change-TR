@@ -1,0 +1,12 @@
+buggy_AG_features,buggy_AG_groups,buggy_RA_features,buggy_RA_groups
+la,1,la,1
+nf,2,nf,2
+lt,3,entropy,3
+entropy,4,lt,4
+sexp,5,nd,5
+age,5,nuc,6
+exp,5,age,6
+nd,6,exp,6
+ld,7,sexp,7
+ns,8,ld,8
+nuc,8,ns,9

@@ -1,0 +1,22 @@
+
+projects <- c("activemq", "camel", "derby", "geronimo", "hcommon", "hbase", "mahout", "openjpa", "pig", "tuscany")
+
+root_path <- "E://Study/szz_investigation/data_csvs4/"
+
+a <- 0
+m <- 0
+for (p in projects){
+	project_path <- paste(c(root_path, p, ".csv"), collapse="")
+	data <- read.csv(project_path)
+	num1 <- length(which(data$fix == 1 & data$fixed_issue_types > 1))
+	num2 <- length(which(data$fix == 1))
+	#print(num1 / num2)
+	a <- a + num1 / num2
+	
+	num3 <- length(which(data$MA_num_issues != data$RA_num_issues))
+	num4 <- length(which(data$buggy_MA=="buggy"))
+	print(c(num3, length(which(data$buggy_MA != data$buggy_RA))))
+}
+
+a
+m

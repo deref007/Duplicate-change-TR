@@ -1,0 +1,28 @@
+Classifier,Project,In-dup,Un-dup,ratio
+RF,ActiveMQ,0.66,0.67,2%
+,Camel,0.54,0.55,2%
+,Derby,0.42,0.43,2%
+,Geronimo,0.42,0.43,2%
+,HBase,0.51,0.48,-6%
+,Hadoop C.,0.28,0.33,18%
+,Openjpa,0.38,0.39,3%
+,Pig,0.45,0.49,9%
+,Avg,0.46,0.47,2%
+LR,ActiveMQ,0.66,0.67,2%
+,Camel,0.52,0.52,0%
+,Derby,0.36,0.38,6%
+,Geronimo,0.34,0.37,9%
+,HBase,0.45,0.42,-7%
+,Hadoop C.,0.23,0.25,9%
+,Openjpa,0.31,0.32,3%
+,Pig,0.41,0.45,10%
+,Avg,0.41,0.42,2%
+NB,ActiveMQ,0.62,0.64,3%
+,Camel,0.5,0.51,2%
+,Derby,0.36,0.37,3%
+,Geronimo,0.31,0.37,19%
+,HBase,0.43,0.4,-7%
+,Hadoop C.,0.16,0.21,31%
+,Openjpa,0.3,0.32,7%
+,Pig,0.34,0.41,21%
+,Avg,0.38,0.4,5%

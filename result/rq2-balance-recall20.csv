@@ -1,0 +1,19 @@
+Classifier,Project,Old,New,ratio
+RF,ActiveMQ,0.56,0.69,23%
+,Camel,0.55,0.73,33%
+,Hadoop C.,0.6,0.75,25%
+,Geronimo,0.63,0.81,29%
+,HBase,0.56,0.74,32%
+,Pig,0.46,0.7,52%
+LR,ActiveMQ,0.55,0.71,29%
+,Camel,0.52,0.74,42%
+,Hadoop C.,0.56,0.74,32%
+,Geronimo,0.56,0.78,39%
+,HBase,0.47,0.79,68%
+,Pig,0.46,0.74,61%
+NB,ActiveMQ,0.49,0.64,31%
+,Camel,0.46,0.67,46%
+,Hadoop C.,0.62,0.75,21%
+,Geronimo,0.59,0.78,32%
+,HBase,0.56,0.78,39%
+,Pig,0.55,0.79,44%

@@ -1,0 +1,9 @@
+classifier,Project,In-dup,Un-dup,ratio
+OneWay,ActiveMQ,0.59,0.45,-24%
+,Camel,0.49,0.33,-33%
+,Derby,0.27,0.26,-4%
+,Geronimo,0.54,0.54,0%
+,Hadoop C.,0.44,0.45,2%
+,HBase,0.43,0.46,7%
+,OpenJPA,0.41,0.4,-2%
+,Pig,0.38,0.38,0%

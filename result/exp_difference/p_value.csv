@@ -1,0 +1,25 @@
+﻿metric,projects,p-value
+EXP,ActiveMQ,< 2.2e-16
+,Camel,< 2.2e-16
+,Derby,< 2.2e-16
+,Geronimo,< 2.2e-16
+,Hbase,< 2.2e-16
+,Hadoop.C,< 2.2e-16
+,OpenJPA,< 2.2e-16
+,Pig,< 2.2e-16
+SEXP,ActiveMQ,< 2.2e-16
+,Camel,< 2.2e-16
+,Derby,< 2.2e-16
+,Geronimo,< 2.2e-16
+,Hbase,< 2.2e-16
+,Hadoop.C,< 2.2e-16
+,OpenJPA,< 2.2e-16
+,Pig,< 2.2e-16
+REXP,ActiveMQ,< 2.2e-16
+,Camel,< 2.2e-16
+,Derby,< 2.2e-16
+,Geronimo,< 2.2e-16
+,Hbase,< 2.2e-16
+,Hadoop.C,< 2.2e-16
+,OpenJPA,< 2.2e-16
+,Pig,< 2.2e-16

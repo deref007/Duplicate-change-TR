@@ -1,0 +1,11 @@
+"buggy_AG_features","buggy_AG_groups","buggy_RA_features","buggy_RA_groups"
+"nf",1,"nf",1
+"la",2,"la",2
+"lt",3,"lt",3
+"ndev",4,"ld",4
+"nuc",5,"ns",5
+"ld",5,"age",6
+"age",6,"nuc",7
+"ns",7,"ndev",8
+"sexp",8,"exp",9
+"exp",8,"sexp",10
