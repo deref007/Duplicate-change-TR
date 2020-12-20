@@ -1,0 +1,31 @@
+[submodule "projects/activemq"]
+	path = projects/activemq
+	url = https://github.com/apache/activemq.git
+
+[submodule "projects/camel"]
+	path = projects/camel
+	url = https://github.com/apache/camel.git
+
+[submodule "projects/derby"]
+	path = projects/derby
+	url = https://github.com/apache/derby.git
+
+[submodule "projects/geronimo"]
+	path = projects/geronimo
+	url =https://github.com/apache/geronimo.git
+
+[submodule "projects/hbase"]
+	path = projects/hbase
+	url =https://github.com/apache/hbase.git
+
+[submodule "projects/hadoop-common"]
+	path = projects/hadoop-common
+	url =https://github.com/apache/hadoop-common.git
+
+[submodule "projects/openjpa"]
+	path =projects/openjpa
+	url =https://github.com/apache/openjpa.git
+
+[submodule "projects/pig"]
+	path = projects/pig
+	url =https://github.com/apache/pig.git
