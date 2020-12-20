@@ -29,9 +29,11 @@ Our data is crawl from Apache and labeled using RA_SZZ.
 ## **Requirement**
   The following tools were installed on the machine where the scripts were originally executed:
 * Python 3.7
+  
   In addition, several Python packages including: subprocess, sqlalchemy, pandas, numpy ,etc.
 * R (>=3.6)
-In addition, several R packages including: pROC, DMwR, ROSE, ggplot, rms, etc.
+
+  In addition, several R packages including: pROC, DMwR, ROSE, ggplot, rms, etc.
 ## **Run**
 ### **1. Identify duplicate changes**
 * Run the script ``identify_duplicate/duplicate_detector/ detector.py``
