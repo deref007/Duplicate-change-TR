@@ -1,4 +1,4 @@
-# ** The Impact of Duplicate Changes on Just-in-Time Defect Prediction**
+# The Impact of Duplicate Changes on Just-in-Time Defect Prediction
 The package contains our data and scripts that are needed to reproduce the results from the paper: "**The Impact of Duplicate Changes on Just-in-Time Defect Prediction**". 
 # **Dataset**
 Our data is crawl from Apache and labeled using RA_SZZ.
