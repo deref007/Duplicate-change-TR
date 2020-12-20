@@ -17,8 +17,10 @@ Our data is crawl from Apache and labeled using RA_SZZ.
 ## **Run**
 ### **1.Identify duplicate changes**
 * Run the script ``identify_duplicate/duplicate_detector/ detector.py``
-### **2. Model building and data propocessing**  
-* Running our code needs the path of the directory. Modify a line in the file ``model/calculation/classification_importance.R``
+### **2. Model building**  
+* Running our code needs the path of the directory. Modify a line in the file ``classification/operations/classification_importance.R``
+### **3. Data propocessing**
+* Run the script ``model/calculation/classification_importance.R``
 
 # **Result** 
 * After running the above script. the performance scores (e.g., auc) in each of the 1,000 bootstrap iterations into csv files.
