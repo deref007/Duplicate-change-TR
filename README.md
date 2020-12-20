@@ -16,7 +16,7 @@ The following tools were installed on the machine where the scripts were origina
 * Python 3.7
 * R (>=3.6)
 ## **Run**
-### **1.Identify duplicate changes**
+### **1. Identify duplicate changes**
 * Run the script ``identify_duplicate/duplicate_detector/ detector.py``
 ### **2. Model building**  
 * Running our code needs the path of the directory. Modify a line in the file ``classification/operations/classification_importance.R``
